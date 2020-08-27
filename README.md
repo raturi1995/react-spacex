@@ -36,3 +36,4 @@ For Responsive styling I have  used mobile first approach and used the combinati
 @media query working fine when client side rendering is enabled, but for server side rendering higher viewport css is not getting displayed.
 
 # Lighthouse Report
+https://github.com/raturi1995/uploads/blob/master/spaceX-lighthouse-Report.PNG
